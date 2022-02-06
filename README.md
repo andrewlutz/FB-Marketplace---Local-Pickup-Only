@@ -2,9 +2,7 @@
 
 ## Description
 Ever get annoyed that Facebook Marketplace defaults it's Delivery Method filter to "All" as opposed to "Local Pickup"? Here is a solution to that problem.
-This bookmarklet
-
-https://mrcoles.com/bookmarklet/
+The unencoded JS is in `bookmarklet.js`, you can play around with this code @ https://mrcoles.com/bookmarklet/
 
 ## How to Install/Use?
 1. In Chrome, right-click on the Bookmark Bar and select "Add Page..."
